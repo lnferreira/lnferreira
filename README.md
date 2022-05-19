@@ -8,7 +8,6 @@
 I am postdoctoral researcher at the Center for Humans & Machines in the Max Planck Institute for Human Development in Berlin, Germany. I hold a Ph.D. in computer science and computational mathematics from the University of São Paulo (USP), Brazil. He worked as a postdoctoral researcher at the National Institute for Space Research (INPE) from Brazil and as a visiting researcher at Northwestern University (USA), Humboldt University of Berlin, and Potsdam Institute for Climate Impact Research. My research involves data science, machine learning, and network science mainly applied to climate sciences, geoinformatics, and computational social sciences.
 
 For more information, check my website:
-
 [leonardoferreira.com](http://www.leonardoferreira.com/)
 
 
