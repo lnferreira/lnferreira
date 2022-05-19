@@ -6,6 +6,8 @@
 
 [![Twitter Follow]([https://img.shields.io/twitter/follow/lonardu?style=social](https://img.shields.io/twitter/follow/lonardu?style=flat&logo=twitter))](https://twitter.com/lonardu)
 
+[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)]([https://www.researchgate.net/profile/Daniel_Luedecke](https://www.researchgate.net/profile/Leonardo-Ferreira-19))
+
 
 <!--
 **lnferreira/lnferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
