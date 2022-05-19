@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/lonardu?style=social)](https://twitter.com/lonardu)
+
 <!--
 **lnferreira/lnferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
