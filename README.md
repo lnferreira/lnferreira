@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Follow](https://img.shields.io/github/followers/lnferreira?style=flat&logo=github)](https://img.shields.io/github/followers/lnferreira?style=flat&logo=github)
+[![GitHub Follow](https://img.shields.io/github/stars/lnferreira?style=flat&logo=github)](https://img.shields.io/github/followers/lnferreira?style=flat&logo=github)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lonardu?style=flat&logo=twitter)](https://twitter.com/lonardu)
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
 [![Research gate](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat&logo=googlescholar&colorB=616161)](http://scholar.google.com/citations?user=_HsEiPcAAAAJ)
