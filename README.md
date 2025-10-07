@@ -23,6 +23,7 @@ My primary focus is on **Data Science**, **Machine Learning**, and **Network Sci
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnferreira&theme=radical)
 
-<p align="center">
-  📫 How to reach me: <a href="mailto:lnf@ic.unicamp.br">lnf@ic.unicamp.br</a>
-</p>
+## Contact
+
+📫 How to reach me: <a href="mailto:lnf@ic.unicamp.br">lnf@ic.unicamp.br</a>  
+For more info: [leonardoferreira.com](https://leonardoferreira.com/)
