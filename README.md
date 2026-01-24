@@ -1,23 +1,27 @@
-# Hi there, I'm Leonardo 👋
+# Leonardo N. Ferreira, Ph.D.
+### [leonardoferreira.com](https://leonardoferreira.com/)
 
-I'm a researcher and data scientist focused on developing computational methods to extract insights from large-scale and complex datasets. My work bridges foundational computer science with its application in climate science, health informatics, and computational social science.
 
 I am currently a Postdoctoral Researcher at the **University of Campinas (Unicamp)** and hold a Ph.D. from the **University of São Paulo**.
 
-[![GitHub Follow](https://img.shields.io/github/followers/lnferreira?style=social&logo=github&label=Follow)](https://github.com/lnferreira)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lonardu?style=social&logo=twitter)](https://twitter.com/lonardu)
-[![Personal Website](https://img.shields.io/badge/-leonardoferreira.com-3423A6?style=flat&logo=website&logoColor=white)](http://www.leonardoferreira.com/)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=_HsEiPcAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
+I'm a researcher and data scientist focused on developing computational methods to extract insights from large-scale and complex datasets. My work bridges foundational computer science with its application in climate science, health informatics, and computational social science.
 
-## My Research & Expertise
-My primary focus is on **Data Science**, **Machine Learning**, and **Network Science**. I have a background in both academic and industry research, with previous positions at:
-* :brazil: [Samsung Research Brazil](https://research.samsung.com/srbr)
-* :uk: [Big Data Institute](https://www.bdi.ox.ac.uk/) / [University of Oxford](https://www.ox.ac.uk/)
-* :de: [Center for Humans & Machines](https://www.mpib-berlin.mpg.de/chm) / [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)
-* :de: [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en)
-* :us: [Northwestern University](https://www.northwestern.edu/)
-* :brazil: [Brazil's National Institute for Space Research (INPE)](https://www.gov.br/inpe/pt-br)
+[![GitHub Follow](https://img.shields.io/github/followers/lnferreira?style=social&logo=github&label=Follow)](https://github.com/lnferreira)
+[![Personal Website](https://img.shields.io/badge/-leonardoferreira.com-3423A6?style=flat&logo=website&logoColor=white)](http://www.leonardoferreira.com/)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=_HsEiPcAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/-ORCID-AFCE52?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1445-0590)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
+
+## Positions
+
+* :brazil: [University of Campinas (Unicamp)](https://unicamp.br/) 10/2025 - present
+* :brazil: [Samsung Research Brazil](https://research.samsung.com/srbr) 12/2023 - 09/2025
+* :uk: [Big Data Institute](https://www.bdi.ox.ac.uk/) / [University of Oxford](https://www.ox.ac.uk/) 10/2022 - 10/2023
+* :de: [Center for Humans & Machines](https://www.mpib-berlin.mpg.de/chm) / [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) 06/2020 - 09/2022
+* :de: [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en) 04/2019 - 03/2020
+* :brazil: [Brazil's National Institute for Space Research (INPE)](https://www.gov.br/inpe/pt-br) 10/2017 - 05/2020
+* :us: [Northwestern University](https://www.northwestern.edu/) 11/2015 - 07/2016
+* :brazil: [Universo Online (UOL)](https://www.uol.com.br/) 05/2012 - 10/2013
 
 ## My GitHub Stats
 
@@ -25,5 +29,5 @@ My primary focus is on **Data Science**, **Machine Learning**, and **Network Sci
 
 ## Contact
 
-📫 How to reach me: <a href="mailto:lnf@ic.unicamp.br">lnf@ic.unicamp.br</a>  
-For more info: [leonardoferreira.com](https://leonardoferreira.com/)
+📫 <a href="mailto:lnf@ic.unicamp.br">lnf@ic.unicamp.br</a>  
+
