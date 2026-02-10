@@ -32,7 +32,7 @@ I'm a researcher and data scientist focused on developing computational methods 
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnferreira&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ## Contact
 
