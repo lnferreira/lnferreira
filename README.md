@@ -13,7 +13,7 @@ I'm a researcher and data scientist focused on developing computational methods 
 
 ## Positions
 
-* :brazil: [University of Campinas (Unicamp)](https://unicamp.br/)\
+* :brazil: [Institute of Computing](https://ic.unicamp.br/) / [University of Campinas (Unicamp)](https://unicamp.br/)\
     Postdoctoral Researcher, 10/2025 - present
 * :brazil: [Samsung Research Brazil](https://research.samsung.com/srbr)\
     Senior Research Scientist / Senior AI Specialist, 12/2023 - 09/2025
