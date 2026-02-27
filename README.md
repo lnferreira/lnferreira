@@ -5,7 +5,7 @@
 [![ResearchGate](https://img.shields.io/badge/-ORCID-AFCE52?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1445-0590)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
 
-I am currently a Postdoctoral Researcher at the **University of Campinas (Unicamp)**.
+I am currently a Postdoctoral Researcher at the Institute of Computing, **University of Campinas (Unicamp)**
 
 My research focuses on the development of computational frameworks to analyze high-dimensional and complex datasets. I leverage network science and machine learning to drive discovery across interdisciplinary fields, including climate science, health informatics, and computational social science.
 
