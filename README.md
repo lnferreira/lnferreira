@@ -5,11 +5,9 @@
 [![ResearchGate](https://img.shields.io/badge/-ORCID-AFCE52?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1445-0590)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
 
-I am currently a Postdoctoral Researcher at the **University of Campinas (Unicamp)** and hold a Ph.D. from the **University of São Paulo**.
+I am currently a Postdoctoral Researcher at the **University of Campinas (Unicamp)** and hold a Ph.D. in Computer Science from the **University of São Paulo**.
 
-I'm a researcher and data scientist focused on developing computational methods to extract insights from large-scale and complex datasets. My work bridges foundational computer science with its application in climate science, health informatics, and computational social science.
-
-
+My research focuses on the development of computational frameworks to analyze high-dimensional and complex datasets. I leverage network science and machine learning to drive discovery across interdisciplinary fields, including climate science, health informatics, and computational social science.
 
 ## Positions
 
@@ -30,7 +28,11 @@ I'm a researcher and data scientist focused on developing computational methods 
 * :brazil: [Universo Online (UOL)](https://www.uol.com.br/)\
    Software Developer, 05/2012 - 10/2013
 
-## My GitHub Stats
+## Tools I Use
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,python,jupyter,scipy,scikitlearn,pytorch,mlflow,git,latex,inkscape,gimp,vscode,vim,terminal,macos,linux&perline=8)
+
+## GitHub Stats
 
 ![Top Languages](./profile/top-langs.svg)
 
