@@ -1,6 +1,6 @@
 # Leonardo N. Ferreira, Ph.D.
 
-[![Personal Website](https://img.shields.io/badge/-leonardoferreira.com-FC7A1E?style=flat&logo=website&logoColor=white)](http://www.leonardoferreira.com/)
+[![Personal Website](https://img.shields.io/badge/-www.leonardoferreira.com-FC7A1E?style=flat&logo=website&logoColor=white)](http://www.leonardoferreira.com/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=_HsEiPcAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/-ORCID-AFCE52?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1445-0590)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Leonardo-Ferreira-19)
