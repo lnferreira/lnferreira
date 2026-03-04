@@ -30,7 +30,7 @@ My research focuses on the development of computational frameworks to analyze hi
 
 ## Tools I Use
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,python,jupyter,scipy,scikitlearn,pytorch,mlflow,git,latex,inkscape,gimp,vscode,vim,terminal,macos,linux&perline=8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,python,matplotlib,seaborn,plotly,pandas,polars,scipy,scikitlearn,pytorch,jupyter,huggingface,ollama,mlflow,flask,git,latex,inkscape,gimp,vscode,vim,terminal,macos,linux&perline=8)
 
 ## GitHub Stats
 
