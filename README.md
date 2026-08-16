@@ -12,7 +12,7 @@ My research focuses on the development of computational frameworks to analyze hi
 ## Positions
 
 * :brazil: [Pontifical Catholic University of Campinas (PUC-Campinas)](https://www.puc-campinas.edu.br/)\
-    Professor, 10/2025 - present
+    Professor, 08/2026 - present
 * :brazil: [Institute of Computing](https://ic.unicamp.br/) / [University of Campinas (Unicamp)](https://unicamp.br/)\
     Postdoctoral Researcher / Collaborating Professor, 10/2025 - 7/2026
 * :brazil: [Samsung Research Brazil](https://research.samsung.com/srbr)\
