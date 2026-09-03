@@ -40,5 +40,5 @@ My research focuses on the development of computational frameworks to analyze hi
 
 ## Contact
 
-📫 <a href="mailto:lnf@ic.unicamp.br">lnf@ic.unicamp.br</a>  
+📫 <a href="mailto:leonardo.nascimento@puc-campinas.edu.br">leonardo.nascimento@puc-campinas.edu.br</a>  
 
