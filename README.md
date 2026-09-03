@@ -9,6 +9,10 @@ I am a Professor at the [Pontifical Catholic University of Campinas (PUC-Campina
 
 My research focuses on the development of computational frameworks to analyze high-dimensional and complex datasets. I leverage network science and machine learning to drive discovery across interdisciplinary fields, including climate science, health informatics, and computational social science.
 
+## Contact
+
+📫 <a href="mailto:leonardo.nascimento@puc-campinas.edu.br">leonardo.nascimento@puc-campinas.edu.br</a>  
+
 ## Positions
 
 * :brazil: [Pontifical Catholic University of Campinas (PUC-Campinas)](https://www.puc-campinas.edu.br/)\
@@ -37,8 +41,3 @@ My research focuses on the development of computational frameworks to analyze hi
 ## GitHub Stats
 
 ![Top Languages](./profile/top-langs.svg)
-
-## Contact
-
-📫 <a href="mailto:leonardo.nascimento@puc-campinas.edu.br">leonardo.nascimento@puc-campinas.edu.br</a>  
-
